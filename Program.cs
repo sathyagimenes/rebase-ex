@@ -28,6 +28,7 @@ class Program
 //Alteração V2.0
 //Alteração V3.0
 //Alteração V3.1
+//Alteração V3.2
 //Alteração V4.0
 //Alteração V4.1
 //Alteração V4.2
